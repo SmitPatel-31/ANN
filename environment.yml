@@ -1,0 +1,8 @@
+name: /Users/smitpatel/Developer/MLOps/ANN/venv
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+prefix: /Users/smitpatel/Developer/MLOps/ANN/venv
